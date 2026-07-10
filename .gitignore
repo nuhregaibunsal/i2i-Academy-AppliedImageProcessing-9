@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Project runtime output
+debug_output/
+
+# EasyOCR downloaded model weights
+*.pth
+~/.EasyOCR/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
